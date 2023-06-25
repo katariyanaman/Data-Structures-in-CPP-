@@ -1,3 +1,6 @@
+/* The following C++ program takes inputs for a graph's number of vertices and
+   the adjacency between vertices, and then prints the adjacency matrix representation of the graph. */
+
 #include<iostream>
 #include<iomanip>
  
