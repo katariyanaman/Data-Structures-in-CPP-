@@ -1,3 +1,5 @@
+/* The following C++ program performs addition of two numbers using linked lists and outputs the result. */
+
 #include<iostream>
 #include<conio.h>
 using namespace std;
