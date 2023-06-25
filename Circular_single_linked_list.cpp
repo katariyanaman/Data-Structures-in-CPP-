@@ -1,3 +1,7 @@
+/* The following C++ program implements a circular singly linked list with various
+   operations such as creating a node, adding elements at the beginning or after a given position,
+   deleting an element, searching for an element, displaying the list, updating a node, and sorting the list. */
+
 #include<iostream>
 #include<cstdio>
 #include<cstdlib>
