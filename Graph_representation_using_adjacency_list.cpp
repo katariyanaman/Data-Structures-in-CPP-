@@ -1,3 +1,6 @@
+/* The following C++ program takes inputs for a graph's number of vertices and edges,
+   and vertex pairs for each edge. It then prints the adjacency list representation of the graph. */
+
 #include<iostream>
  
 using namespace std;
