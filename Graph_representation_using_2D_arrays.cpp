@@ -1,3 +1,6 @@
+/* The following C++ program takes inputs for a graph's number of vertices and edges,
+   creates an adjacency matrix representation of an undirected graph, and prints the adjacency matrix. */
+
 #include<iostream>
 #include<iomanip>
  
