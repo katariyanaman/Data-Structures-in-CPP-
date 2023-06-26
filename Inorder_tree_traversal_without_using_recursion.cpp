@@ -1,3 +1,6 @@
+/* The following C++ program creates a binary tree, performs an
+   inorder traversal of the tree, and prints the nodes in ascending order. */
+
 #include<iostream>
 using namespace std;
 #include<conio.h>
