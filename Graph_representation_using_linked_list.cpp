@@ -1,3 +1,7 @@
+/* The following C++ program creates a graph data structure using an incidence
+   list representation, where the user can input the number of vertices and edges of the graph,
+   and then specify the vertex pairs for each edge. It then constructs and prints the incidence list representation of the graph. */
+
 #include<iostream>
  
 using namespace std;
