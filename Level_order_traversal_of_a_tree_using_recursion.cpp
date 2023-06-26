@@ -1,3 +1,6 @@
+/* The following C++ program implements the level order traversal
+   of a binary tree by printing the nodes at each level from top to bottom. */
+
 #include <iostream>
 #include<stdio.h>
 using namespace std;
