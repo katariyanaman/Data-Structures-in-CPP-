@@ -1,3 +1,6 @@
+/* The following C++ program implements a Binary Search Tree (BST) data structure
+   with operations like inserting elements, performing an inorder traversal, and displaying the tree structure. */
+
 # include <iostream>
 # include <cstdlib>
 using namespace std;
