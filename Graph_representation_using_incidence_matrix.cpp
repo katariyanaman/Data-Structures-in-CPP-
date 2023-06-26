@@ -1,3 +1,7 @@
+/* The following C++ program takes inputs for a graph's number
+   of vertices and determines the adjacency between vertices. It then
+   constructs and prints the incidence matrix representation of the graph. */
+
 #include<iostream>
 #include<iomanip>
  
