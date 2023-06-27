@@ -1,3 +1,7 @@
+/* The following C++ program defines a binary tree using a structure
+   called `node` and a class called `Tree`. It creates three binary trees and
+   performs a pre-order traversal on each tree, printing the values of the nodes in pre-order. */
+
 #include<iostream>
 using namespace std;
 struct node
