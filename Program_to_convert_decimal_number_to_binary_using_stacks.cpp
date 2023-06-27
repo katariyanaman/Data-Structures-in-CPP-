@@ -1,3 +1,5 @@
+/* The following C++ program converts a decimal number into its binary representation. */
+
 #include <iostream>
 #include <stdio.h>
 #include <conio.h>
