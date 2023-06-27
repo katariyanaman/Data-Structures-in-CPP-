@@ -1,3 +1,6 @@
+/* The following C++ program implements an iterative pre-order
+   traversal of a binary tree and prints the values of the nodes in pre-order. */
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <iostream>
