@@ -1,3 +1,6 @@
+/* The following C++ program reads an NFA (Non-Deterministic Finite Automaton) from a file,
+   converts it into a DFA (Deterministic Finite Automaton), and writes the DFA to another file. */
+
 #include <cstdio>
 #include <fstream>
 #include <iostream>
