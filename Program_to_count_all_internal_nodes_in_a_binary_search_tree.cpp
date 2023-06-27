@@ -1,3 +1,6 @@
+/* The following C++ program counts the number of internal nodes in
+   three different binary trees and displays the count for each tree. */
+
 #include <iostream>
 using namespace std;
 struct node
