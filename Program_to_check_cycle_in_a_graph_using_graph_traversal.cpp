@@ -1,3 +1,6 @@
+/* The follwoing C++ program allows the user to create a graph by adding
+   edges between nodes and checks if the graph contains a cycle using graph traversal. */
+
 #include <iostream>
 #include <list>
 #include <climits>
