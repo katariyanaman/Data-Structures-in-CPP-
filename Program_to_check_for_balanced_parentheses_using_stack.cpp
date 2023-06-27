@@ -1,3 +1,6 @@
+/* The following C++ program checks the validity of an expression by verifying if the
+   parentheses (round brackets), curly brackets, and square brackets are properly balanced or not. */
+
 #include <iostream>
 #include <conio.h>
 using namespace std;
