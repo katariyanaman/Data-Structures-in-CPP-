@@ -1,3 +1,7 @@
+/* The following C++ program demonstrates the creation and
+   manipulation of binary trees by creating the mirror image of each tree
+   and performing level order traversal before and after the mirror image transformation. */
+
 #include<iostream>
 using namespace std;
 struct node
