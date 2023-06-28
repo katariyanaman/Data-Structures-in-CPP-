@@ -1,3 +1,6 @@
+/* The following C++ program creates a balanced binary tree from an array
+   of integers, and then prints the tree in both preorder and inorder traversal. */
+
 #include <iostream>
  
 using namespace std;
