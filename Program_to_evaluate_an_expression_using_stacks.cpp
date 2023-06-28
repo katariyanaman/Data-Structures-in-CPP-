@@ -1,3 +1,6 @@
+/* The following C++ program evaluates a given balanced expression containing
+   arithmetic operations using a stack-based approach and outputs the result. */
+
 #include <iostream>
 #include <conio.h>
 #include <string.h>
