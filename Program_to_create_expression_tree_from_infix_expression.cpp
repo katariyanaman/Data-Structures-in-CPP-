@@ -1,3 +1,6 @@
+/* The following C++ program parses and evaluates a binary arithmetic expression
+   entered by the user, supporting addition, subtraction, multiplication, and division operations. */
+
 #include <cstdlib>
 #include <iostream>
 #include <sstream>
