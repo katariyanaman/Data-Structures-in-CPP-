@@ -1,3 +1,5 @@
+/* The following C++ program identifies and displays the back edges in a directed graph represented by an adjacency matrix. */
+
 #include<iostream>
 #include<conio.h>
 using namespace std;
