@@ -1,3 +1,5 @@
+/* The following C++ program calculates the inverse of a given matrix using Gaussian elimination method. */
+
 #include<iostream>
 #include<conio.h>
 #include<stdio.h>
