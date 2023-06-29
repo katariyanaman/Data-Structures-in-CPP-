@@ -1,3 +1,6 @@
+/* The following C++ program performs a topological sort on a 
+   directed graph represented by an adjacency matrix and detects forward edges. */
+
 #include<iostream>
 #include<conio.h>
 using namespace std;
