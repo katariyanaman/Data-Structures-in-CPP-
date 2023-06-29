@@ -1,3 +1,5 @@
+/* The following C++ program is performing a topological sort and finding strongly connected components in a directed graph. */
+
 #include<iostream>
 #include<conio.h>
 using namespace std;
