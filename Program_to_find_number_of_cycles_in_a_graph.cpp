@@ -1,3 +1,5 @@
+/* The following C++ program calculates the number of cycles in a given undirected graph. */
+
 #include<iostream>
 #define SIZE 20
 using namespace std;
