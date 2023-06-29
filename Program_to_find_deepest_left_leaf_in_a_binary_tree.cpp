@@ -1,3 +1,5 @@
+/* The following C++ program finds the deepest left leaf node in a binary tree. */
+
 #include <cstdio>
 #include <iostream>
 using namespace std;
