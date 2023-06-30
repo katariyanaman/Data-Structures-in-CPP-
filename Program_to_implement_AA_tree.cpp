@@ -1,3 +1,6 @@
+/* The following C++ program implements an AA tree data structure, providing operations
+   like inserting a string into the tree, printing the tree data, and counting the total number of nodes in the tree. */
+
 #include <iostream>
 #include <cstdlib>
 #include <cstring>
