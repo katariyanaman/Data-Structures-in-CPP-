@@ -1,3 +1,6 @@
+/* The following C++ program creates a binary search tree by taking user input
+   for node values and then performs inorder, preorder, and postorder traversals on the tree. */
+
 #include <iostream>
 using namespace std;
 #include <conio.h>
