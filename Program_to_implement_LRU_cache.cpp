@@ -1,3 +1,5 @@
+/* The following C++ program implements the Least Recently Used (LRU) page replacement algorithm using a queue and hash data structure. */
+
 #include <iostream>
 #include <cstdlib>
 #include <cmath>
