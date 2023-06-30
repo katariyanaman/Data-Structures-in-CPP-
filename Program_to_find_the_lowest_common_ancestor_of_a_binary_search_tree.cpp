@@ -1,3 +1,6 @@
+/* The following C++ program is implementing the Lowest Common Ancestor (LCA) algorithm
+   in a binary search tree (BST) to find the lowest common ancestor of two given nodes. */
+
 #include<conio.h>
 #include <stdio.h>
 #include<iostream>
