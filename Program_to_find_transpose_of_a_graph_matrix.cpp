@@ -1,3 +1,5 @@
+/* The following C++ program is finding the transpose of a matrix entered by the user. */
+
 #include<iostream>
 #include<conio.h>
 #include<stdio.h>
