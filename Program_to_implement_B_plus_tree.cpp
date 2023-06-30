@@ -1,3 +1,6 @@
+/* The following C++ program implements a B+ tree data structure and performs the
+   insertion of elements into the tree, followed by traversing and printing the tree structure. */
+
 #include<stdio.h>
 #include<conio.h>
 #include<iostream>
