@@ -1,3 +1,6 @@
+/* The following C++ program implements a D-ary heap data structure, allowing operations
+   such as insertion, deletion, checking if the heap is full or empty, and clearing the heap. */
+
 #include <iostream>
 #include <cstring>
 #include <cstdlib>
