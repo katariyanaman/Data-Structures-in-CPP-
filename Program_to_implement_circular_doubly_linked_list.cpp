@@ -1,3 +1,5 @@
+/* The following C++ program implements operations on a doubly circular linked list. */
+
 #include<iostream>
 #include<cstdio>
 #include<cstdlib>
