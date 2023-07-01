@@ -1,3 +1,6 @@
+/* The following C++ program implements a binomial heap data structure and provides operations such as
+   inserting elements, extracting the minimum key node, decreasing the key of a node, deleting a node, and displaying the heap. */
+
 #include <iostream>
 #include <cstdlib>
 using namespace std;
