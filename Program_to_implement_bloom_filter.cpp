@@ -1,3 +1,6 @@
+/* The following C++ program implements a general Bloom filter for adding and
+   checking the presence of strings in a filter based on their CRC32 hash values. */
+
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>
