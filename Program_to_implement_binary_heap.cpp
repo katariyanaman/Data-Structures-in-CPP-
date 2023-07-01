@@ -1,3 +1,6 @@
+/* The following C++ program implements a binary heap data structure, allowing the user to perform operations
+   such as inserting elements, deleting the minimum element, extracting the minimum element, and displaying the heap. */
+
 #include <iostream>
 #include <cstdlib>
 #include <vector>
