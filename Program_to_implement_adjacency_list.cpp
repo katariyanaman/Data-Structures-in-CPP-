@@ -1,3 +1,6 @@
+/* The following C++ program creates a graph data structure using an adjacency list representation
+   and adds edges between vertices. It then prints the adjacency list representation of the graph. */
+
 #include <iostream>
 #include <cstdlib>
 using namespace std;
