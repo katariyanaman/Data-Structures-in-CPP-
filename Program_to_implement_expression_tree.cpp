@@ -1,3 +1,6 @@
+/* The following C++ program implements an expression tree to evaluate and display the prefix,
+   infix, and postfix forms of an arithmetic expression, as well as the evaluated result of the expression. */
+
 #include <iostream>
 #include <cstdlib>
 #include <cstdio>     
