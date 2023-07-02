@@ -1,3 +1,6 @@
+/* The following C++ program implements a direct addressing table,
+   allowing operations to insert, delete, and search elements based on integer keys. */
+
 #include<iostream>
 #include<cstdlib>
 #include<string>
