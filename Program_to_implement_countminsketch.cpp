@@ -1,3 +1,6 @@
+/* The following C++ program implements the Count-Min Sketch data structure,
+   a probabilistic algorithm used for estimating the frequency of elements in a stream. */
+
 # include <iostream>
 # include <cmath>
 # include <map>
