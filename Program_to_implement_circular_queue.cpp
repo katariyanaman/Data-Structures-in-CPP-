@@ -1,3 +1,5 @@
+/* The following C++ program implements a circular queue with insertion, deletion, and display operations. */
+
 #include <iostream>
 #define MAX 5
 using namespace std;
