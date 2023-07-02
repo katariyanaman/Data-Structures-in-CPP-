@@ -1,3 +1,7 @@
+/* The following C++ program implements a doubly linked list and provides
+   operations to create a list, add elements at the beginning and after a given position,
+   delete elements, search for an element, display the list, count the number of elements, and reverse the list. */
+
 #include<iostream>
 #include<cstdio>
 #include<cstdlib>
