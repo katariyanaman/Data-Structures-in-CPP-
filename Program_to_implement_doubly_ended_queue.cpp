@@ -1,3 +1,6 @@
+/* The following C++ program implements a double-ended queue (deque) using a doubly linked list,
+   allowing operations to insert, delete, and traverse elements from both ends of the deque. */
+
 #include <iostream>
 #include <cstdlib>
 using namespace std;
