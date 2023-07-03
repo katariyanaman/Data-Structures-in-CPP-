@@ -1,3 +1,6 @@
+/* The following C++ program implements a hash table using a binary search tree (BST)
+   for collision resolution, allowing operations to insert, search, and display elements stored as strings. */
+
 #include <iostream>
 #include <string>
 #include <vector>
