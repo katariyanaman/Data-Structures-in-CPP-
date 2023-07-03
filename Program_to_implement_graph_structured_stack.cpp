@@ -1,3 +1,6 @@
+/* The following C++ program implements a graph algorithm that finds all paths
+   between a source node and a bottom node using a graph-structured stack data structure. */
+
 #include <iostream>
 #include <cstdlib>
 #include <stack>
