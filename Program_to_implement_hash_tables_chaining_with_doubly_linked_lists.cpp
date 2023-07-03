@@ -1,3 +1,6 @@
+/* The following C++ program implements a hash table using separate chaining for collision
+   resolution, allowing operations to insert, search, and delete elements based on a key-value pair. */
+
 #include <iostream>
 #include <string>
 #include <vector>
