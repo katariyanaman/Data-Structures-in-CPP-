@@ -1,3 +1,6 @@
+/* The following C++ program implements a Fibonacci heap data structure and provides operations such as
+   insertion, extraction of the minimum key node, decreasing key value, deleting a node, and displaying the heap. */
+
 #include <iostream>
 #include <cmath>
 #include <cstdlib>
