@@ -1,3 +1,6 @@
+/* The following C++ program implements a hash table data structure
+   with operations to insert, search, and delete elements based on a key. */
+
 #include<iostream>
 #include<cstdlib>
 #include<string>
