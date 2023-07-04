@@ -1,3 +1,7 @@
+/* The following C++ program implements a hash table using open addressing with linear probing
+   as a collision resolution technique. It provides operations to insert elements, search for elements
+   by key, delete elements by key, and allows the user to interact with the hash table through a menu-driven interface. */
+
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>
