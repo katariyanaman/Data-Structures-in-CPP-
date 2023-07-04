@@ -1,3 +1,7 @@
+/* The following C++ program implements a binary min-heap data structure
+   using a vector. It provides operations to insert an element into the heap,
+   delete the minimum element, extract the minimum element, and display the heap. */
+
 #include <iostream>
 #include <cstdlib>
 #include <vector>
