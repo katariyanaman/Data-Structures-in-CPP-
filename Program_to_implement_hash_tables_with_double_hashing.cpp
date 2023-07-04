@@ -1,3 +1,7 @@
+/* The following C++ program implements double hashing as a collision resolution technique in a hash table,
+   allowing operations to initialize the table size, insert elements, display the hash table, and rehash the 
+   table if it becomes full. It provides a menu-driven interface for interacting with the hash table. */
+
 #include <iostream>
 #include <cstdlib>
 #define MIN_TABLE_SIZE 10
