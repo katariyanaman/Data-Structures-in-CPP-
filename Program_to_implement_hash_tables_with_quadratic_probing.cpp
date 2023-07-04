@@ -1,3 +1,8 @@
+/* The following C++ program implements a hash table using quadratic probing as a
+   collision resolution technique and handles collisions by incrementing the probe position by a
+   quadratic sequence (1, 3, 5, 7, ...). It provides operations to initialize the table size, insert elements,
+   display the hash table, rehash the table, and allows the user to interact with the hash table through a menu-driven interface. */
+
 #include <iostream>
 #include <cstdlib>
 #define MIN_TABLE_SIZE 10
