@@ -1,3 +1,6 @@
+/* The following C++ program implements a Leftist Heap data structure, which is a type of priority
+   queue. It provides operations to insert elements, merge two heaps, delete the minimum element, and clone heaps. */
+
 #include <iostream>
 #include <cstdlib>
 using namespace std;
