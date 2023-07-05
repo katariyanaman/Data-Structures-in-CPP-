@@ -1,3 +1,5 @@
+/* The following C++ program is implementing the Min Heap data structure by building a min heap from an input array of elements. */
+
 #include <iostream>
 #include <conio.h>
 using namespace std;
