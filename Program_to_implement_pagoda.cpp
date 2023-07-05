@@ -1,3 +1,6 @@
+/* The following C++ program is implementing a data structure called "Pagoda" using a binary tree.
+   It allows the user to insert elements, display the elements, and delete the last element from the pagoda. */
+
 #include <iostream>
 #include <cstdlib>
 #define MAX_ELEMS 25
