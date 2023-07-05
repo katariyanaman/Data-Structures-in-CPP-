@@ -1,3 +1,6 @@
+/* The following C++ program is implementing a Pairing Heap data structure, which is a type
+   of heap that supports insertion, deletion of the minimum element, and decreasing the key of an element. */
+
 #include <iostream>
 #include <cstdlib>
 #include <vector>
