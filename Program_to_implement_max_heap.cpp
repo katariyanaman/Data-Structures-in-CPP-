@@ -1,3 +1,5 @@
+/* The following C++ program is implementing the Max Heap data structure by building a max heap from an input array of elements. */
+
 #include <iostream>
 #include <conio.h>
 using namespace std;
