@@ -1,3 +1,6 @@
+/* The following C++ program is implementing a priority queue using a linked list, allowing the user to insert
+   elements with priorities, delete the element with the highest priority, and display the contents of the priority queue. */
+
 #include <iostream>
 #include <cstdio>
 #include <cstring>
