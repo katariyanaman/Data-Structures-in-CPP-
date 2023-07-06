@@ -1,3 +1,6 @@
+/* The following C++ program implements a queue using a linked list,
+   allowing the user to insert elements, delete elements, and display the contents of the queue. */
+
 #include<iostream>
 #include<cstdlib>
 using namespace std;
