@@ -1,3 +1,7 @@
+/* The following C++ program implements a Red-Black Tree data structure
+   with operations such as creation, lookup, insertion, and deletion of nodes. It includes
+   functions for maintaining the Red-Black Tree properties, such as color assignments and rotations. */
+
 #include <iostream>
 #include <cstdio>
 #include <cstring>
