@@ -1,3 +1,6 @@
+/* The above C++ program implements a queue using a linked list,
+   allowing the user to push elements into the queue and remove elements from the front of the queue. */
+
 #include<iostream>
 #include<stdio.h>
 #include<conio.h>
