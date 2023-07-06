@@ -1,3 +1,7 @@
+/* The following C++ program implements a Randomized Binary Search Tree (RBST) data structure
+   with operations such as insertion, search, counting nodes, checking if the tree is empty, and clearing
+   the tree. It also provides traversal methods (in-order, pre-order, and post-order) to display the elements in the tree. */
+
 #include <iostream>
 #include <cstdio>
 #include <cstring>
