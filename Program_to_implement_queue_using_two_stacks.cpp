@@ -1,3 +1,6 @@
+/* The following C++ program implements a queue using two stacks, where the elements are
+   enqueued by pushing them onto one stack and dequeued by popping them from the other stack. */
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<iostream>
