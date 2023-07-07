@@ -1,3 +1,6 @@
+/* The following C++ program implements the Rabin-Karp algorithm for string matching,
+   which uses rolling hash technique to efficiently find occurrences of a substring within a larger string. */
+
 #include <iostream>
 #include <string>
 using namespace std;
