@@ -1,3 +1,7 @@
+/* The following C++ program implements a singly linked list data structure and provides
+   operations to insert nodes at the beginning, end, or a specified position, delete a particular node,
+   sort the linked list, search for an element, update node values, reverse the linked list, and display the elements of the list. */
+
 #include<iostream>
 #include<cstdio>
 #include<cstdlib>
