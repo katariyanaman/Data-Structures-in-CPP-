@@ -1,3 +1,7 @@
+/* The following C++ program implements a Skew Heap data structure and provides
+   operations to insert elements into the heap, delete the maximum element, merge two heaps,
+   print the heap, print the maximum element of the heap, and merge the present heap with another heap. */
+
 #include <iostream>
 #include <cstdlib>
 using namespace std;
