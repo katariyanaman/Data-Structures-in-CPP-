@@ -1,3 +1,6 @@
+/* The following C++ program implements a ScapeGoat Tree, a self-balancing binary search tree, and provides
+   operations to insert elements, count nodes, search for an element, check if the tree is empty, and make the tree empty. */
+
 #include <iostream>
 #include <cstdlib>
 #include <cmath>
