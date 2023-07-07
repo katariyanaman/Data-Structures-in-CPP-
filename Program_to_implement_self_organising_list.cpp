@@ -1,3 +1,7 @@
+/* The following C++ program implements a self-organizing list data structure
+   and provides operations to insert nodes at the beginning or end, delete a particular node,
+   display the list, move elements to the front, transpose elements, and count occurrences of elements in the list. */
+
 #include<iostream>
 #include<cstdio>
 #include<cstdlib>
