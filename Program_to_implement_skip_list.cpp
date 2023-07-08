@@ -1,3 +1,6 @@
+/* The following C++ program implements a Skip List data structure and provides operations to insert an element
+   into the list, delete an element from the list, search for an element in the list, and display the contents of the list. */
+
 #include <iostream>
 #include <cstdlib>
 #include <cmath>
