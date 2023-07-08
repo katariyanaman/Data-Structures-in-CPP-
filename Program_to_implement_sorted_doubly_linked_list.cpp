@@ -1,3 +1,6 @@
+/* The following C++ program creates a doubly linked list by taking user input for
+   the number of nodes and their values, and then traverses the list in both forward and reverse directions. */
+
 #include<stdio.h>
 #include<conio.h>
 #include<iostream>
