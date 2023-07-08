@@ -1,3 +1,6 @@
+/* The following C++ program creates a circular linked list by taking
+   user input for the number of nodes and their values, and then traverses the list. */
+
 #include<stdio.h>
 #include<conio.h>
 #include<iostream>
