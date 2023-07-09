@@ -1,3 +1,6 @@
+/* The following C++ program implements a stack using a linked list data structure and provides
+   operations to push elements onto the stack, pop elements from the stack, and traverse the stack. */
+
 #include<iostream>
 #include<cstdlib>
 using namespace std;
