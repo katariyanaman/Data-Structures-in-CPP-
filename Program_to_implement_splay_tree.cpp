@@ -1,3 +1,6 @@
+/* The following C++ program implements a Splay Tree data structure, which performs insert,
+   delete, and search operations on a set of integers, and displays the tree in an inorder traversal. */
+
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>
