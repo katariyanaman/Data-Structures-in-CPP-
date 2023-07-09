@@ -1,3 +1,6 @@
+/* The following C++ program implements a queue using a linked list data structure and
+   provides operations to push elements into the queue and remove elements from the queue. */
+
 #include <iostream>
 #include <stdio.h>
 #include <conio.h>
