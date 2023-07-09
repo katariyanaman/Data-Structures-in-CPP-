@@ -1,3 +1,5 @@
+/* The following C++ program finds the longest common substring between two input strings using a suffix tree data structure. */
+
 #include <iostream>
 #include <cstdlib>
 #include <cstring>
