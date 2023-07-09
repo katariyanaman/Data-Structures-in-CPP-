@@ -1,3 +1,6 @@
+/* The following C++ program implements a queue using two stacks, where the elements are enqueued
+   in one stack and dequeued from the other stack, allowing the queue operations to be performed efficiently. */
+
 #include<stdio.h>
 #include<iostream>
 #include<conio.h>
