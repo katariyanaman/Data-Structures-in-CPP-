@@ -1,3 +1,6 @@
+/* The following C++ program implements a ternary search tree data structure
+   and demonstrates its operations, including insertion and search, using a sample set of words. */
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<iostream>
