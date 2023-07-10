@@ -1,3 +1,6 @@
+/* The following C++ program implements a ternary heap data structure
+   and demonstrates its operations, such as push and pop, using a sample set of data. */
+
 #include <iostream>
 #include <cstdio>
 #include <cstring>
