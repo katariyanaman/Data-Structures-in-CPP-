@@ -1,3 +1,6 @@
+/* The following C++ program clusters anagrams from a given array of words using
+   a Trie data structure, where anagrams are words that have the same characters but in a different order. */
+
 #include <iostream>
 #include <vector>
 #include <string>
