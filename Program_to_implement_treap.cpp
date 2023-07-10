@@ -1,3 +1,7 @@
+/* The following C++ program implements a randomized binary search tree called Treap (Tree + Heap),
+   which is a combination of a binary search tree and a heap data structure, allowing efficient operations such as insertion,
+   deletion, and searching. The program provides a menu-driven interface for user interaction to perform these operations on the Treap. */
+
 #include <iostream>
 #include <cstdlib>
 using namespace std;
