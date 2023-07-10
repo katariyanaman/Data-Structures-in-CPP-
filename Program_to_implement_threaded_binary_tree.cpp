@@ -1,3 +1,6 @@
+/* The following C++ program implements a threaded binary search tree data structure and provides operations
+   such as insertion, deletion, searching, and clearing of the tree, with a menu-driven interface for user interaction. */
+
 #include <iostream>
 #include <cstdlib>
 #define MAX_VALUE 65536
