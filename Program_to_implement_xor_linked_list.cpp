@@ -1,3 +1,6 @@
+/* The following C++ program implements an XOR Linked List data structure and provides operations
+   to insert elements at the beginning of the list and display the elements in the list using XOR-based linking. */
+
 #include <iostream>
 #include <cstdlib>
 using namespace std;
