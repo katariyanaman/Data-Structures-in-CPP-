@@ -1,3 +1,6 @@
+/* The following C++ program implements a vector using the STL (Standard Template Library) in C++.
+   It allows inserting, deleting, displaying, and clearing elements of the vector based on user choices. */
+
 #include <iostream>
 #include <vector>
 #include <string>
