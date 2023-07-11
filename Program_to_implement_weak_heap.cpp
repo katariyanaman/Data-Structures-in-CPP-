@@ -1,3 +1,6 @@
+/* The following C++ program implements a Weak Heap data structure and provides operations
+   to insert elements into the heap and display the sorted array using Weak Heap sort algorithm. */
+
 #include <iostream>
 #include <cstdlib>
 #include <vector>
