@@ -1,3 +1,6 @@
+/* The following C++ program creates a doubly linked list where each node
+   can have a top node, and it allows traversing the list from both the head and tail. */
+
 #include<stdio.h>
 #include<conio.h>
 #include<iostream>
