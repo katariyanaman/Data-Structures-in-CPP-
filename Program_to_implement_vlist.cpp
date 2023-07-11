@@ -1,3 +1,7 @@
+/* The following C++ program implements a variable-sized list (Vlist) using
+   a linked list of sublists to efficiently support operations like insertion at the front,
+   computing the length, finding an element, removing an element, and displaying the elements of the Vlist. */
+
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>
