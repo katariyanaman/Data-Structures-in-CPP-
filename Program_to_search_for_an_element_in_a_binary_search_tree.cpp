@@ -1,3 +1,6 @@
+/* The following C++ program implements a binary search tree (BST) and allows the user to search for elements in the
+   tree by repeatedly prompting for inputs and displaying the depth at which the element is found or indicating if it is not found. */
+
 #include<iostream>
  
 using namespace std;
