@@ -1,3 +1,6 @@
+/* The following C++ program performs truncation pruning on a binary tree,
+   removing subtrees whose sum of node values is less than a given threshold value 'k'. */
+
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>
