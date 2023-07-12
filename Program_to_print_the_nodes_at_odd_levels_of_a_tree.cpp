@@ -1,3 +1,5 @@
+/* The following C++ program prints the level order traversal of a binary tree. */
+
 #include <stdio.h>
 #include <stdlib.h>
 
