@@ -1,3 +1,6 @@
+/* The following C++ program is solving the Tower of Hanoi problem by printing
+   the sequence of moves required to solve the problem for a given number of disks. */
+
 #include<stdio.h> 
 #include<conio.h>
 #include<iostream>
