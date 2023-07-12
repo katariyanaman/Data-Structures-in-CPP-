@@ -1,3 +1,6 @@
+/* The following C++ program implements a dictionary data structure using hashing with
+   chaining, allowing for operations such as insertion, search, and deletion of key-value pairs. */
+
 #include<iostream>
 #include<conio.h>
 #include<stdlib.h>
