@@ -1,3 +1,6 @@
+/* The following C++ program implements a binary tree and performs a spiral (zigzag) traversal of the tree, alternating between
+   left-to-right and right-to-left directions at each level. It demonstrates three different binary trees and their respective spiral traversals. */
+
 #include<iostream>
 using namespace std;
 struct node
