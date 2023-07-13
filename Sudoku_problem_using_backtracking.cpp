@@ -1,3 +1,5 @@
+/* The following C++ program solves a Sudoku puzzle using backtracking algorithm and prints the solution if it exists. */
+
 #include <iostream>
 #include <cstdio>
 #include <cstring>
