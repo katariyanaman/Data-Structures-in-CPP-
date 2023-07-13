@@ -1,3 +1,6 @@
+/* The following C++ program converts a sorted linked list into a balanced
+   Binary Search Tree (BST) and performs a preorder traversal of the constructed BST. */
+
 #include<iostream>
 #include<cstdlib>
 using namespace std;
