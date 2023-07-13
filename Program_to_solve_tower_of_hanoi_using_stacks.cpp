@@ -1,3 +1,6 @@
+/* The following C++ program is implementing the Tower of Hanoi problem using three stacks to simulate the movements
+   of disks between the towers. It displays the step-by-step process of solving the Tower of Hanoi problem for a given number of disks. */
+
 #include<stdio.h>
 #include<conio.h>
 #include<iostream>
