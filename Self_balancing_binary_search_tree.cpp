@@ -1,3 +1,7 @@
+/* The following C++ program implements a self-balancing binary search tree (AVL tree)
+   and provides various operations such as insertion, counting nodes, searching, checking if the tree
+   is empty, and making the tree empty. It also displays the tree in pre-order, in-order, and post-order traversal. */
+
 #include <iostream>
 #include <cstdlib>
 using namespace std;
